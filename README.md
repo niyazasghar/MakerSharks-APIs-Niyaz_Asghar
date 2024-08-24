@@ -16,7 +16,7 @@ To run this application, you will need:
 * JDK 11 or later
 * Maven 3.6 or later
 * An IDE like IntelliJ IDEA or Visual Studio Code
-* PostgresSQL Database (recommended, but H2 in-memory database can also be used for testing purposes)
+* MySQL Database (recommended, but H2 in-memory database can also be used for testing purposes)
 
 ## Installation
 
